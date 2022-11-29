@@ -9,7 +9,9 @@ class PaytmChecksum {
 		var encrypted = cipher.update(input, 'binary', 'base64');
 		encrypted += cipher.final('base64');
 		return encrypted;
-	}
+	}  
+	
+	
 	static decrypt(encrypted, key) {
 		var decipher = crypto.createDecipheriv('AES-128-CBC', key, PaytmChecksum.iv);
 		var decrypted = decipher.update(encrypted, 'base64', 'binary');
