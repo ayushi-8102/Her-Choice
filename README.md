@@ -1,22 +1,22 @@
-# Her Choice
+# Her Choice ☕
 An E-Commerce warranty system using NFTs. This  was  our Design Poject of Semester 5.
 
-### Problem:
+### Problem🤔:
 Many consumer products come with warranties against manufacturing and regular-use defects. These warranties as of now are issued through physical receipt/cards. But this traditional system has its drawbacks for instance, these warranties can be easily distored. Professional misconduct of authorized dealer could result in issuing warranty cards for expired products. 
 
-### What Should be Done?
+### What Should be Done 🤔
 NFTs are tradable, collectible items, which makes them the perfect addition to Ecommerce website.The verification of ownership can be done right away with the use of NFTs. With these self-burnig NFTs, the expiry of product can be kept in check atomatically which is the current thing that we have focused in our solution and no physical proof is further needed to verify the customers' claim for warranty.
 
-### Our Objective :
+### Our Objective 🔥:
 
 The objective is to replace the physical warranty and have blockchain based warranty using NFT which will ensure authenticity and security.
 
-### Our Approach
+### Our Approach 🔧
  The project will contain two interfaces user and vendor. Once delivery is confirmed and product has reached par its return period vendor will mint the NFT on request warranty on user's address. Vendor can validate whether the warranty is alive. User can access these warranties in listed products. After the expiry date these NFTs will be burned and the access to the warranties will no longer be permitted to the user. User can use these warranties withing warranty period.
  
  
 
-### Key Features:
+### Key Features ✨:
 
 *  Interactive UI <br>
 * Proving Authenticity of a Product Using the WarrantyNFT tokens.<br>
@@ -43,13 +43,13 @@ The objective is to replace the physical warranty and have blockchain based warr
 * __Tools:__ Git, VsCode 
 
 ***
- ### Key Learning
+ ### Key Learning ✨
 
 * Implementation of MERN stack. <br>
 * Understanding Blockchain fundamentals. <br>
 * Working with NFT wallets.<br>
 
-### Refrences 
+### Refrences 👩‍🎓
 
 https://www.ledgerinsights.com/korean-retailer-shinsegae-blockchain-warranty-as-nft-for-luxury-items/ <br>
 https://docs.soliditylang.org/en/v0.8.17/ <br>
