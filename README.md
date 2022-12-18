@@ -1,6 +1,6 @@
 # Her Choice ☕
 An E-Commerce warranty system using NFTs. This  was  our Design Poject of Semester 5.
-(The project is yet to complete)
+
 ### Problem🤔:
 Many consumer products come with warranties against manufacturing and regular-use defects. These warranties as of now are issued through physical receipt/cards. But this traditional system has its drawbacks for instance, these warranties can be easily distored. Professional misconduct of authorized dealer could result in issuing warranty cards for expired products. 
 
